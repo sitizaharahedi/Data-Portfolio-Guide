@@ -40,4 +40,4 @@
 
 ***
 
-➡️ **[View my Software Engineering Portfolio here](https://github.com/sitizaharahedi/Software-Engineering-Portfolio-Guide)** 
+# ➡️ **Check out my [Software Engineering Portfolio](https://github.com/sitizaharahedi/Software-Engineering-Portfolio-Guide) here.**
