@@ -1,4 +1,4 @@
-## Siti Zaharah's Data Portfolio
+## Siti Zaharah's Data Science & Analytics Portfolio
 
 ![Hi, I'm Siti Zaharah](./banner3.png)
 
@@ -42,4 +42,4 @@
 
 
 
-➡️ **Interested in software engineering projects? Check out my [Software Engineering Portfolio](https://github.com/sitizaharahedi/Software-Engineering-Portfolio-Guide) here.**
+➡️ **Interested in Software Engineering projects? Check out my [Software Engineering Portfolio](https://github.com/sitizaharahedi/Software-Engineering-Portfolio-Guide) here.**
